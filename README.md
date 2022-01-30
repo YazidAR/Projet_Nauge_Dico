@@ -1,4 +1,4 @@
-# USSI39 Analyse de données non numériques 
+# USSI39 - Analyse de données non numériques 
 Yazid ARAB, CNAM (2022)
 
 ## Rendu :
