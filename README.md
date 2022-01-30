@@ -3,7 +3,7 @@ Yazid ARAB, CNAM (2022)
 
 ## Rendu :
 
-Vous trouverez, ci-joint, les différents liens et fichiers vous permettant de récupérer l'ensemble de mon devoir.
+Vous trouverez, ci-joint, les différents liens et fichiers vous permettant de récupérer l'ensemble de mon devoir. Mon lien Voilà ne fonctionne pas tout le temps mais le code du binder ne devrait pas poser de souci et tourne correctement. Je ne suis pas parvenu à trouver une solution pour corriger ce petit problème.
 
 Bonne correction !
 
